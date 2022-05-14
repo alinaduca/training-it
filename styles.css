@@ -27,3 +27,32 @@ header {
 .nav {
   display: flex;
 }
+
+.nav li {
+  padding: 0 5px;
+  list-style: none;
+}
+
+.nav a {
+  text-decoration: none;
+}
+
+.logo {
+  width: 50%;
+}
+
+.logo img {
+  width: 100%;
+}
+
+.title {
+  width: 50%;
+}
+
+.introduction {
+  display: flex;
+}
+
+.title h1{
+  text-align: center;
+}
