@@ -27,3 +27,11 @@ header {
 .nav {
   display: flex;
 }
+
+.department-card {
+  width: 200px;
+  height: 100px;
+  background-color: aqua;
+  color: black;
+  margin: 20px;
+}
